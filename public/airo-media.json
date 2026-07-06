@@ -1,0 +1,1098 @@
+{
+  "products/door-handles-hero": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2157908168",
+    "searchQuery": "modern stainless steel door handle hardware premium",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/1450391220",
+      "https://img1.wsimg.com/isteam/getty/182801144"
+    ],
+    "userModified": false,
+    "createdAt": "2026-06-02T08:27:36.849Z",
+    "lastUpdated": "2026-06-02T08:27:36.849Z",
+    "gettyId": "2157908168",
+    "alternativeGettyIds": [
+      "1450391220",
+      "182801144"
+    ],
+    "requestedSize": {
+      "width": 600,
+      "height": 600,
+      "fit": "cover"
+    }
+  },
+  "logo/horizontal": {
+    "mediaType": "logo",
+    "currentUrl": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/a45579e6-30b8-4a98-b043-ae8dd49afb1c/session/e7de4d81-ec27-42d1-8a8e-93371c099639/horizontal-transparent-12b46f5bd3e588331845c4b5619fd608/logo-pyrotech-electronics-12b46f.png",
+    "searchQuery": "Pyrotech Electronics",
+    "alternatives": [],
+    "solidUrlMap": {
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/a45579e6-30b8-4a98-b043-ae8dd49afb1c/session/e7de4d81-ec27-42d1-8a8e-93371c099639/horizontal-transparent-12b46f5bd3e588331845c4b5619fd608/logo-pyrotech-electronics-12b46f.png": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/a45579e6-30b8-4a98-b043-ae8dd49afb1c/session/e7de4d81-ec27-42d1-8a8e-93371c099639/horizontal-solid-3695b85d59c493a067e6b6a29283b2e4/logo-pyrotech-electronics-3695b8.png"
+    },
+    "reversedUrlMap": {
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/a45579e6-30b8-4a98-b043-ae8dd49afb1c/session/e7de4d81-ec27-42d1-8a8e-93371c099639/horizontal-transparent-12b46f5bd3e588331845c4b5619fd608/logo-pyrotech-electronics-12b46f.png": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/a45579e6-30b8-4a98-b043-ae8dd49afb1c/session/e7de4d81-ec27-42d1-8a8e-93371c099639/horizontal-reversed-2bd9838ca13fd570af50da3a22e5c27d/logo-pyrotech-electronics-2bd983.png"
+    },
+    "reversedSolidUrlMap": {
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/a45579e6-30b8-4a98-b043-ae8dd49afb1c/session/e7de4d81-ec27-42d1-8a8e-93371c099639/horizontal-transparent-12b46f5bd3e588331845c4b5619fd608/logo-pyrotech-electronics-12b46f.png": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/a45579e6-30b8-4a98-b043-ae8dd49afb1c/session/e7de4d81-ec27-42d1-8a8e-93371c099639/horizontal-reversed-solid-5c9c14894681489939f9e7c1cc99dd30/logo-pyrotech-electronics-5c9c14.png"
+    },
+    "mockupUrlMap": {
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/a45579e6-30b8-4a98-b043-ae8dd49afb1c/session/e7de4d81-ec27-42d1-8a8e-93371c099639/horizontal-transparent-12b46f5bd3e588331845c4b5619fd608/logo-pyrotech-electronics-12b46f.png": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/a45579e6-30b8-4a98-b043-ae8dd49afb1c/session/e7de4d81-ec27-42d1-8a8e-93371c099639/horizontal-mockup-6b28a43c8bf842deb01931345fa1ff56/logo-pyrotech-electronics-6b28a4.png"
+    },
+    "landscapeMockupUrlMap": {},
+    "logoSourceMap": {
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/a45579e6-30b8-4a98-b043-ae8dd49afb1c/session/e7de4d81-ec27-42d1-8a8e-93371c099639/horizontal-transparent-12b46f5bd3e588331845c4b5619fd608/logo-pyrotech-electronics-12b46f.png": {
+        "sessionId": "e7de4d81-ec27-42d1-8a8e-93371c099639",
+        "logoId": "12b46f5b"
+      }
+    },
+    "userModified": true,
+    "createdAt": "2026-06-02T08:28:38.186Z",
+    "lastUpdated": "2026-06-10T04:57:10.719Z"
+  },
+  "products/storage-racks-hero": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2237650876",
+    "searchQuery": "modern metal storage rack shelving unit home organizer",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2200877953"
+    ],
+    "userModified": false,
+    "createdAt": "2026-06-02T08:28:45.247Z",
+    "lastUpdated": "2026-06-02T08:28:45.247Z",
+    "gettyId": "2237650876",
+    "alternativeGettyIds": [
+      "2200877953"
+    ],
+    "requestedSize": {
+      "width": 600,
+      "height": 600,
+      "fit": "cover"
+    }
+  },
+  "products/laptop-stand-hero": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1125614886",
+    "searchQuery": "aluminum laptop stand desk ergonomic premium",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2267508226"
+    ],
+    "userModified": false,
+    "createdAt": "2026-06-02T08:28:46.440Z",
+    "lastUpdated": "2026-06-02T08:28:46.440Z",
+    "gettyId": "1125614886",
+    "alternativeGettyIds": [
+      "2267508226"
+    ],
+    "requestedSize": {
+      "width": 600,
+      "height": 600,
+      "fit": "cover"
+    }
+  },
+  "products/mobile-stand-hero": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1131949998",
+    "searchQuery": "mobile phone stand holder desk organizer modern",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2268124680"
+    ],
+    "userModified": false,
+    "createdAt": "2026-06-02T08:28:47.608Z",
+    "lastUpdated": "2026-06-02T08:28:47.608Z",
+    "gettyId": "1131949998",
+    "alternativeGettyIds": [
+      "2268124680"
+    ],
+    "requestedSize": {
+      "width": 600,
+      "height": 600,
+      "fit": "cover"
+    }
+  },
+  "products/dustbin-hero": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1406448584",
+    "searchQuery": "modern stainless steel dustbin waste bin home office",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2244254385"
+    ],
+    "userModified": false,
+    "createdAt": "2026-06-02T08:28:48.486Z",
+    "lastUpdated": "2026-06-02T08:28:48.486Z",
+    "gettyId": "1406448584",
+    "alternativeGettyIds": [
+      "2244254385"
+    ],
+    "requestedSize": {
+      "width": 600,
+      "height": 600,
+      "fit": "cover"
+    }
+  },
+  "pages/home/hero": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1227507348",
+    "searchQuery": "modern home interior hardware premium quality industrial design",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2276309448",
+      "https://img1.wsimg.com/isteam/getty/2212338398"
+    ],
+    "userModified": false,
+    "createdAt": "2026-06-02T08:28:50.184Z",
+    "lastUpdated": "2026-06-02T08:28:50.184Z",
+    "gettyId": "1227507348",
+    "alternativeGettyIds": [
+      "2276309448",
+      "2212338398"
+    ],
+    "requestedSize": {
+      "width": 1920,
+      "height": 900,
+      "fit": "cover"
+    },
+    "orientations": "horizontal",
+    "compositions": "wide_shot"
+  },
+  "categories/mobile-stands": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2269669149",
+    "searchQuery": "adjustable desk mobile phone stand holder product white background",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2237785387",
+      "https://img1.wsimg.com/isteam/getty/2232953156"
+    ],
+    "userModified": false,
+    "createdAt": "2026-06-10T05:51:33.611Z",
+    "lastUpdated": "2026-06-19T06:06:36.059Z",
+    "gettyId": "2269669149",
+    "alternativeGettyIds": [
+      "2237785387",
+      "2232953156"
+    ],
+    "requestedSize": {
+      "width": 400,
+      "height": 400,
+      "fit": "cover"
+    },
+    "orientations": "square",
+    "numberOfPeople": "none"
+  },
+  "categories/door-handles": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/968386982",
+    "searchQuery": "modern stainless steel door handle lever hardware product",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2262568911",
+      "https://img1.wsimg.com/isteam/getty/1582852275"
+    ],
+    "userModified": false,
+    "createdAt": "2026-06-10T05:51:34.846Z",
+    "lastUpdated": "2026-06-19T06:06:37.111Z",
+    "gettyId": "968386982",
+    "alternativeGettyIds": [
+      "2262568911",
+      "1582852275"
+    ],
+    "requestedSize": {
+      "width": 400,
+      "height": 400,
+      "fit": "cover"
+    },
+    "orientations": "square",
+    "numberOfPeople": "none"
+  },
+  "categories/storage-racks": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1389751974",
+    "searchQuery": "metal storage shelf rack unit industrial warehouse product",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2272308810",
+      "https://img1.wsimg.com/isteam/getty/2216001659"
+    ],
+    "userModified": false,
+    "createdAt": "2026-06-10T05:51:35.825Z",
+    "lastUpdated": "2026-06-19T06:06:38.642Z",
+    "gettyId": "1389751974",
+    "alternativeGettyIds": [
+      "2272308810",
+      "2216001659"
+    ],
+    "requestedSize": {
+      "width": 400,
+      "height": 400,
+      "fit": "cover"
+    },
+    "orientations": "square",
+    "numberOfPeople": "none"
+  },
+  "categories/door-stoppers": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2185922019",
+    "searchQuery": "door stopper wedge rubber floor mounted hardware product",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/1418550831",
+      "https://img1.wsimg.com/isteam/getty/2008175249"
+    ],
+    "userModified": false,
+    "createdAt": "2026-06-10T05:51:36.986Z",
+    "lastUpdated": "2026-06-19T06:06:39.558Z",
+    "gettyId": "2185922019",
+    "alternativeGettyIds": [
+      "1418550831",
+      "2008175249"
+    ],
+    "requestedSize": {
+      "width": 400,
+      "height": 400,
+      "fit": "cover"
+    },
+    "orientations": "square",
+    "numberOfPeople": "none"
+  },
+  "categories/window-grips": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1018346142",
+    "searchQuery": "window grip handle pull bar aluminum hardware product",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2266640710",
+      "https://img1.wsimg.com/isteam/getty/2214659276"
+    ],
+    "userModified": false,
+    "createdAt": "2026-06-10T05:51:37.997Z",
+    "lastUpdated": "2026-06-19T06:06:41.384Z",
+    "gettyId": "1018346142",
+    "alternativeGettyIds": [
+      "2266640710",
+      "2214659276"
+    ],
+    "requestedSize": {
+      "width": 400,
+      "height": 400,
+      "fit": "cover"
+    },
+    "orientations": "square",
+    "numberOfPeople": "none"
+  },
+  "categories/modular-furniture": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2251606986",
+    "searchQuery": "modular office furniture desk shelving unit modern interior",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2236923816",
+      "https://img1.wsimg.com/isteam/getty/671952132"
+    ],
+    "userModified": false,
+    "createdAt": "2026-06-10T05:51:39.234Z",
+    "lastUpdated": "2026-06-19T06:06:44.146Z",
+    "gettyId": "2251606986",
+    "alternativeGettyIds": [
+      "2236923816",
+      "671952132"
+    ],
+    "requestedSize": {
+      "width": 400,
+      "height": 400,
+      "fit": "cover"
+    },
+    "orientations": "square",
+    "numberOfPeople": "none"
+  },
+  "categories/pen-stands": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2281274797",
+    "searchQuery": "desk pen pencil holder stand organizer stationery product",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2203418047",
+      "https://img1.wsimg.com/isteam/getty/472046336"
+    ],
+    "userModified": false,
+    "createdAt": "2026-06-10T05:51:41.230Z",
+    "lastUpdated": "2026-06-19T06:06:45.011Z",
+    "gettyId": "2281274797",
+    "alternativeGettyIds": [
+      "2203418047",
+      "472046336"
+    ],
+    "requestedSize": {
+      "width": 400,
+      "height": 400,
+      "fit": "cover"
+    },
+    "orientations": "square",
+    "numberOfPeople": "none"
+  },
+  "categories/laptop-stands": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2247342278",
+    "searchQuery": "aluminum laptop stand riser desk ergonomic product white background",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2227312052",
+      "https://img1.wsimg.com/isteam/getty/1490306170"
+    ],
+    "userModified": false,
+    "createdAt": "2026-06-10T05:51:42.492Z",
+    "lastUpdated": "2026-06-19T06:06:46.939Z",
+    "gettyId": "2247342278",
+    "alternativeGettyIds": [
+      "2227312052",
+      "1490306170"
+    ],
+    "requestedSize": {
+      "width": 400,
+      "height": 400,
+      "fit": "cover"
+    },
+    "orientations": "square",
+    "numberOfPeople": "none"
+  },
+  "categories/dustbins": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2194451996",
+    "searchQuery": "office waste bin dustbin trash can product isolated",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/183855435",
+      "https://img1.wsimg.com/isteam/getty/2233428781"
+    ],
+    "userModified": false,
+    "createdAt": "2026-06-10T05:51:43.723Z",
+    "lastUpdated": "2026-06-19T06:06:47.584Z",
+    "gettyId": "2194451996",
+    "alternativeGettyIds": [
+      "183855435",
+      "2233428781"
+    ],
+    "requestedSize": {
+      "width": 400,
+      "height": 400,
+      "fit": "cover"
+    },
+    "orientations": "square",
+    "numberOfPeople": "none"
+  },
+  "categories/window-handles": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2269546515",
+    "searchQuery": "window handle latch casement hardware chrome product",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2273347170",
+      "https://img1.wsimg.com/isteam/getty/1582852275"
+    ],
+    "userModified": false,
+    "createdAt": "2026-06-10T05:51:45.194Z",
+    "lastUpdated": "2026-06-19T06:06:42.676Z",
+    "gettyId": "2269546515",
+    "alternativeGettyIds": [
+      "2273347170",
+      "1582852275"
+    ],
+    "requestedSize": {
+      "width": 400,
+      "height": 400,
+      "fit": "cover"
+    },
+    "orientations": "square",
+    "numberOfPeople": "none"
+  },
+  "products/lighting-panel-4way-tpn-photo": {
+    "mediaType": "generated",
+    "currentUrl": "https://isteam.wsimg.com/genai-assistant/images/a45579e6-30b8-4a98-b043-ae8dd49afb1c/f43a8e1a-1c4a-4c51-836f-6c6607bd8530/b7bca118-original.png",
+    "searchQuery": "industrial electrical distribution panel board",
+    "caption": "industrial electrical distribution panel board",
+    "alternatives": [],
+    "aiGeneratedUrls": [
+      "https://isteam.wsimg.com/genai-assistant/images/a45579e6-30b8-4a98-b043-ae8dd49afb1c/f43a8e1a-1c4a-4c51-836f-6c6607bd8530/b7bca118-original.png"
+    ],
+    "userModified": true,
+    "createdAt": "2026-06-18T05:05:42.589Z",
+    "lastUpdated": "2026-06-18T05:05:42.589Z"
+  },
+  "categories/lighting-panels": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2210960952",
+    "searchQuery": "industrial electrical distribution panel board grey metal enclosure",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/1199456724",
+      "https://img1.wsimg.com/isteam/getty/1457667507"
+    ],
+    "userModified": false,
+    "createdAt": "2026-06-18T05:06:41.268Z",
+    "lastUpdated": "2026-06-18T05:06:41.268Z",
+    "gettyId": "2210960952",
+    "alternativeGettyIds": [
+      "1199456724",
+      "1457667507"
+    ],
+    "requestedSize": {
+      "width": 400,
+      "height": 400,
+      "fit": "cover"
+    },
+    "orientations": "square"
+  },
+  "categories/distribution-panel": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1443113250",
+    "searchQuery": "electrical distribution panel board industrial metal enclosure switchboard",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2210960952",
+      "https://img1.wsimg.com/isteam/getty/1457667507"
+    ],
+    "userModified": false,
+    "createdAt": "2026-06-19T06:06:48.951Z",
+    "lastUpdated": "2026-06-19T06:06:48.951Z",
+    "gettyId": "1443113250",
+    "alternativeGettyIds": [
+      "2210960952",
+      "1457667507"
+    ],
+    "requestedSize": {
+      "width": 400,
+      "height": 400,
+      "fit": "cover"
+    },
+    "orientations": "square",
+    "numberOfPeople": "none"
+  },
+  "categories/standard-junction-box": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1809412926",
+    "searchQuery": "standard electrical junction box grey plastic enclosure product",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/1318806425",
+      "https://img1.wsimg.com/isteam/getty/2212930902"
+    ],
+    "userModified": false,
+    "createdAt": "2026-06-19T06:06:49.592Z",
+    "lastUpdated": "2026-06-19T06:06:49.592Z",
+    "gettyId": "1809412926",
+    "alternativeGettyIds": [
+      "1318806425",
+      "2212930902"
+    ],
+    "requestedSize": {
+      "width": 400,
+      "height": 400,
+      "fit": "cover"
+    },
+    "orientations": "square",
+    "numberOfPeople": "none"
+  },
+  "categories/wired-junction-box": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2280544043",
+    "searchQuery": "wired junction box electrical wiring cables inside enclosure industrial",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/1809412926",
+      "https://img1.wsimg.com/isteam/getty/2148898626"
+    ],
+    "userModified": false,
+    "createdAt": "2026-06-19T06:06:50.863Z",
+    "lastUpdated": "2026-06-19T06:06:50.863Z",
+    "gettyId": "2280544043",
+    "alternativeGettyIds": [
+      "1809412926",
+      "2148898626"
+    ],
+    "requestedSize": {
+      "width": 400,
+      "height": 400,
+      "fit": "cover"
+    },
+    "orientations": "square",
+    "numberOfPeople": "none"
+  },
+  "categories/populated-junction-box": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1037516692",
+    "searchQuery": "populated junction box with terminals relays components mounted inside electrical panel",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2210960952",
+      "https://img1.wsimg.com/isteam/getty/1809412926"
+    ],
+    "userModified": false,
+    "createdAt": "2026-06-19T06:06:52.344Z",
+    "lastUpdated": "2026-06-19T06:06:52.344Z",
+    "gettyId": "1037516692",
+    "alternativeGettyIds": [
+      "2210960952",
+      "1809412926"
+    ],
+    "requestedSize": {
+      "width": 400,
+      "height": 400,
+      "fit": "cover"
+    },
+    "orientations": "square",
+    "numberOfPeople": "none"
+  },
+  "categories/switchgear-components": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2278836381",
+    "searchQuery": "switchgear components MCB circuit breaker electrical components industrial",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2252732212",
+      "https://img1.wsimg.com/isteam/getty/1288239993"
+    ],
+    "userModified": false,
+    "createdAt": "2026-06-19T06:06:53.764Z",
+    "lastUpdated": "2026-06-19T06:06:53.764Z",
+    "gettyId": "2278836381",
+    "alternativeGettyIds": [
+      "2252732212",
+      "1288239993"
+    ],
+    "requestedSize": {
+      "width": 400,
+      "height": 400,
+      "fit": "cover"
+    },
+    "orientations": "square",
+    "numberOfPeople": "none"
+  },
+  "products/lp-001-diagram": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/products-lp-001-diagram-558d8018.jpg",
+    "searchQuery": "",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-06-19T06:48:41.021Z",
+    "lastUpdated": "2026-06-19T06:48:41.021Z",
+    "uploadSources": {
+      "/airo-assets/uploads/products-lp-001-diagram-558d8018.jpg": "xqu6cqkp9s_1781851700314_file_vyfHIGuLhc.jpeg"
+    },
+    "uploadContentHash": "4e50556640d443042f29a6e7859dcb0ee7bea0ec2b7e7733b500c878cefcf872"
+  },
+  "products/lp-001-bom": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/products-lp-001-bom-20d15500.jpg",
+    "searchQuery": "",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-06-19T06:48:41.850Z",
+    "lastUpdated": "2026-06-19T06:48:41.850Z",
+    "uploadSources": {
+      "/airo-assets/uploads/products-lp-001-bom-20d15500.jpg": "xqu6cqkp9s_1781851700316_file_VA-k_RCFw9.jpeg"
+    },
+    "uploadContentHash": "afab66b427571ccecfb3bbf044e4dccee95e9b35a93b2030518b568cb8d1379d"
+  },
+  "products/lp-002-diagram": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/products-lp-002-diagram-60b61b07.jpg",
+    "searchQuery": "",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-06-19T06:48:42.571Z",
+    "lastUpdated": "2026-06-19T06:48:42.571Z",
+    "uploadSources": {
+      "/airo-assets/uploads/products-lp-002-diagram-60b61b07.jpg": "xqu6cqkp9s_1781851700316_file_N9DlIYSJZp.jpeg"
+    },
+    "uploadContentHash": "5e4cd09d57427651346e78a213a77a0f65abb45a174b96d9567148dfe29f3197"
+  },
+  "products/lp-002-bom": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/products-lp-002-bom-232a18a7.jpg",
+    "searchQuery": "",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-06-19T06:48:43.228Z",
+    "lastUpdated": "2026-06-19T06:48:43.228Z",
+    "uploadSources": {
+      "/airo-assets/uploads/products-lp-002-bom-232a18a7.jpg": "xqu6cqkp9s_1781851700317_file_wcmQVjypNe.jpeg"
+    },
+    "uploadContentHash": "ec438dabc7d3ab0843f88caa4023c25deb775274f85576fe1cdf21ec8aa5c775"
+  },
+  "products/lp-003-diagram": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/products-lp-003-diagram-3181ddab.jpg",
+    "searchQuery": "",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-06-19T06:48:43.796Z",
+    "lastUpdated": "2026-06-19T06:48:43.796Z",
+    "uploadSources": {
+      "/airo-assets/uploads/products-lp-003-diagram-3181ddab.jpg": "xqu6cqkp9s_1781851700318_file_mB6_HjZXIU.jpeg"
+    },
+    "uploadContentHash": "9dbe31cffb800f3373659ba2b453bdabfac45ebe66e631bc26a761cd7dc5a54e"
+  },
+  "products/lp-003-bom": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/products-lp-003-bom-6787772c.jpg",
+    "searchQuery": "",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-06-19T06:48:44.394Z",
+    "lastUpdated": "2026-06-19T06:48:44.394Z",
+    "uploadSources": {
+      "/airo-assets/uploads/products-lp-003-bom-6787772c.jpg": "xqu6cqkp9s_1781851701764_file_YVaS1O56Na.jpeg"
+    },
+    "uploadContentHash": "ae8d1cb9a1a6f9cb1fbcfb372888bd2eba62e51fb77adc5f45c315367343e76c"
+  },
+  "products/lp-004-diagram": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/products-lp-004-diagram-4592d3d2.jpg",
+    "searchQuery": "",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-06-19T06:48:45.256Z",
+    "lastUpdated": "2026-06-19T06:48:45.256Z",
+    "uploadSources": {
+      "/airo-assets/uploads/products-lp-004-diagram-4592d3d2.jpg": "xqu6cqkp9s_1781851701767_file_1uKFWPdbkV.jpeg"
+    },
+    "uploadContentHash": "9a3c6d4436cf1f38ce4b2c8a886b5aef9a4d339d5ea56acfafb0253c2ad6e466"
+  },
+  "products/lp-004-bom": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/products-lp-004-bom-d6791ff5.jpg",
+    "searchQuery": "",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-06-19T06:48:45.827Z",
+    "lastUpdated": "2026-06-19T06:48:45.827Z",
+    "uploadSources": {
+      "/airo-assets/uploads/products-lp-004-bom-d6791ff5.jpg": "xqu6cqkp9s_1781851701769_file_QKpZCSQqBO.jpeg"
+    },
+    "uploadContentHash": "4fea93b1024ff90f716a70e0539651a1a54ee0aeeecd41502fe4c84b919bf026"
+  },
+  "products/lp-005-diagram": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/products-lp-005-diagram-cd2b8366.jpg",
+    "searchQuery": "",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-06-19T06:48:46.633Z",
+    "lastUpdated": "2026-06-19T06:48:46.633Z",
+    "uploadSources": {
+      "/airo-assets/uploads/products-lp-005-diagram-cd2b8366.jpg": "xqu6cqkp9s_1781851701770_file_eBSUPLJ-Cn.jpeg"
+    },
+    "uploadContentHash": "88da64ec8480910ac50f75960d391bcdd028f7065240930951e6d1e114037916"
+  },
+  "products/lp-005-bom": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/products-lp-005-bom-4e0c1658.jpg",
+    "searchQuery": "",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-06-19T06:48:47.105Z",
+    "lastUpdated": "2026-06-19T06:48:47.105Z",
+    "uploadSources": {
+      "/airo-assets/uploads/products-lp-005-bom-4e0c1658.jpg": "xqu6cqkp9s_1781851701772_file_9bMO6hZGQo.jpeg"
+    },
+    "uploadContentHash": "e29df411af7c5b888d3c07d786985d684bf4009cc3d1dfe3e15e87af9c036496"
+  },
+  "products/lp-001-main": {
+    "mediaType": "generated",
+    "currentUrl": "https://isteam.wsimg.com/genai-assistant/images/a45579e6-30b8-4a98-b043-ae8dd49afb1c/823b497b-56e3-4387-98c2-f122008b807f/41ece2ae-original.png",
+    "searchQuery": "pyrotech tpn floor distribution electrical panel",
+    "caption": "pyrotech tpn floor distribution electrical panel",
+    "alternatives": [],
+    "aiGeneratedUrls": [
+      "https://isteam.wsimg.com/genai-assistant/images/a45579e6-30b8-4a98-b043-ae8dd49afb1c/823b497b-56e3-4387-98c2-f122008b807f/41ece2ae-original.png"
+    ],
+    "userModified": true,
+    "createdAt": "2026-06-19T06:49:11.385Z",
+    "lastUpdated": "2026-06-19T06:49:11.385Z"
+  },
+  "products/lp-002-main": {
+    "mediaType": "generated",
+    "currentUrl": "https://isteam.wsimg.com/genai-assistant/images/a45579e6-30b8-4a98-b043-ae8dd49afb1c/f36c26cc-d801-4008-80fd-005adfc75ad2/1e0d76f8-original.png",
+    "searchQuery": "pyrotech tpn floor distribution electrical panel",
+    "caption": "pyrotech tpn floor distribution electrical panel",
+    "alternatives": [],
+    "aiGeneratedUrls": [
+      "https://isteam.wsimg.com/genai-assistant/images/a45579e6-30b8-4a98-b043-ae8dd49afb1c/f36c26cc-d801-4008-80fd-005adfc75ad2/1e0d76f8-original.png"
+    ],
+    "userModified": true,
+    "createdAt": "2026-06-19T06:49:12.465Z",
+    "lastUpdated": "2026-06-19T06:49:12.465Z"
+  },
+  "products/lp-003-main": {
+    "mediaType": "generated",
+    "currentUrl": "https://isteam.wsimg.com/genai-assistant/images/a45579e6-30b8-4a98-b043-ae8dd49afb1c/4630e4d2-2147-474d-bf45-acd1b9fbea6e/eb997761-original.png",
+    "searchQuery": "pyrotech electrical distribution panel grey",
+    "caption": "pyrotech electrical distribution panel grey",
+    "alternatives": [],
+    "aiGeneratedUrls": [
+      "https://isteam.wsimg.com/genai-assistant/images/a45579e6-30b8-4a98-b043-ae8dd49afb1c/4630e4d2-2147-474d-bf45-acd1b9fbea6e/eb997761-original.png"
+    ],
+    "userModified": true,
+    "createdAt": "2026-06-19T06:49:13.193Z",
+    "lastUpdated": "2026-06-19T06:49:13.193Z"
+  },
+  "products/lp-004-main": {
+    "mediaType": "generated",
+    "currentUrl": "https://isteam.wsimg.com/genai-assistant/images/a45579e6-30b8-4a98-b043-ae8dd49afb1c/b66b75b3-73ad-4354-be05-f006253ca7d0/023c1e74-original.png",
+    "searchQuery": "pyrotech electrical distribution panel closeup",
+    "caption": "pyrotech electrical distribution panel closeup",
+    "alternatives": [],
+    "aiGeneratedUrls": [
+      "https://isteam.wsimg.com/genai-assistant/images/a45579e6-30b8-4a98-b043-ae8dd49afb1c/b66b75b3-73ad-4354-be05-f006253ca7d0/023c1e74-original.png"
+    ],
+    "userModified": true,
+    "createdAt": "2026-06-19T06:49:15.012Z",
+    "lastUpdated": "2026-06-19T06:49:15.012Z"
+  },
+  "products/lp-005-main": {
+    "mediaType": "generated",
+    "currentUrl": "https://isteam.wsimg.com/genai-assistant/images/a45579e6-30b8-4a98-b043-ae8dd49afb1c/23bfa43e-27aa-45b1-bbfb-81da87c326c4/e7348f73-original.png",
+    "searchQuery": "industrial electrical distribution panel enclosure",
+    "caption": "industrial electrical distribution panel enclosure",
+    "alternatives": [],
+    "aiGeneratedUrls": [
+      "https://isteam.wsimg.com/genai-assistant/images/a45579e6-30b8-4a98-b043-ae8dd49afb1c/23bfa43e-27aa-45b1-bbfb-81da87c326c4/e7348f73-original.png"
+    ],
+    "userModified": true,
+    "createdAt": "2026-06-19T06:49:16.169Z",
+    "lastUpdated": "2026-06-19T06:49:16.169Z"
+  },
+  "products/sjb-crca-main": {
+    "mediaType": "generated",
+    "currentUrl": "https://isteam.wsimg.com/genai-assistant/images/a45579e6-30b8-4a98-b043-ae8dd49afb1c/ef6beb1c-5802-41e9-8a6b-d27ceac08c01/58769ffd-original.png",
+    "searchQuery": "pyrotech grey steel electrical junction box",
+    "caption": "pyrotech grey steel electrical junction box",
+    "alternatives": [],
+    "aiGeneratedUrls": [
+      "https://isteam.wsimg.com/genai-assistant/images/a45579e6-30b8-4a98-b043-ae8dd49afb1c/ef6beb1c-5802-41e9-8a6b-d27ceac08c01/58769ffd-original.png"
+    ],
+    "userModified": true,
+    "createdAt": "2026-06-26T06:22:18.889Z",
+    "lastUpdated": "2026-06-26T06:22:18.889Z"
+  },
+  "products/sjb-ss-main": {
+    "mediaType": "generated",
+    "currentUrl": "https://isteam.wsimg.com/genai-assistant/images/a45579e6-30b8-4a98-b043-ae8dd49afb1c/eacd12a4-c571-4ce8-b3a7-414c499c9d1b/baa44fc6-original.png",
+    "searchQuery": "stainless steel junction box hinged lid",
+    "caption": "stainless steel junction box hinged lid",
+    "alternatives": [],
+    "aiGeneratedUrls": [
+      "https://isteam.wsimg.com/genai-assistant/images/a45579e6-30b8-4a98-b043-ae8dd49afb1c/eacd12a4-c571-4ce8-b3a7-414c499c9d1b/baa44fc6-original.png"
+    ],
+    "userModified": true,
+    "createdAt": "2026-06-26T06:22:33.570Z",
+    "lastUpdated": "2026-06-26T06:22:33.570Z"
+  },
+  "products/sjb-frp-main": {
+    "mediaType": "generated",
+    "currentUrl": "https://isteam.wsimg.com/genai-assistant/images/a45579e6-30b8-4a98-b043-ae8dd49afb1c/72469633-58a7-48b0-b22c-a52dae6ca252/4f9d3634-original.png",
+    "searchQuery": "grey fiberglass electrical junction box",
+    "caption": "grey fiberglass electrical junction box",
+    "alternatives": [],
+    "aiGeneratedUrls": [
+      "https://isteam.wsimg.com/genai-assistant/images/a45579e6-30b8-4a98-b043-ae8dd49afb1c/72469633-58a7-48b0-b22c-a52dae6ca252/4f9d3634-original.png"
+    ],
+    "userModified": true,
+    "createdAt": "2026-06-26T06:22:47.773Z",
+    "lastUpdated": "2026-06-26T06:22:47.773Z"
+  },
+  "products/sjb-grp-main": {
+    "mediaType": "generated",
+    "currentUrl": "https://isteam.wsimg.com/genai-assistant/images/a45579e6-30b8-4a98-b043-ae8dd49afb1c/4ca1fb41-59a5-48a9-9945-d49800a16d17/88293070-original.png",
+    "searchQuery": "pyrotech grp junction box cream composite",
+    "caption": "pyrotech grp junction box cream composite",
+    "alternatives": [],
+    "aiGeneratedUrls": [
+      "https://isteam.wsimg.com/genai-assistant/images/a45579e6-30b8-4a98-b043-ae8dd49afb1c/4ca1fb41-59a5-48a9-9945-d49800a16d17/88293070-original.png"
+    ],
+    "userModified": true,
+    "createdAt": "2026-06-26T06:23:05.095Z",
+    "lastUpdated": "2026-06-26T06:23:05.095Z"
+  },
+  "products/sjb-pc-main": {
+    "mediaType": "generated",
+    "currentUrl": "https://isteam.wsimg.com/genai-assistant/images/a45579e6-30b8-4a98-b043-ae8dd49afb1c/314e7977-69e0-4b1e-bb5c-76aa96a7d051/e5b957f7-original.png",
+    "searchQuery": "transparent polycarbonate electrical junction box",
+    "caption": "transparent polycarbonate electrical junction box",
+    "alternatives": [],
+    "aiGeneratedUrls": [
+      "https://isteam.wsimg.com/genai-assistant/images/a45579e6-30b8-4a98-b043-ae8dd49afb1c/314e7977-69e0-4b1e-bb5c-76aa96a7d051/e5b957f7-original.png"
+    ],
+    "userModified": true,
+    "createdAt": "2026-06-26T06:23:20.302Z",
+    "lastUpdated": "2026-06-26T06:23:20.302Z"
+  },
+  "products/sjb-catalogue-main": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/products-sjb-catalogue-main-4e0c1658.jpg",
+    "searchQuery": "",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-06-26T06:35:12.624Z",
+    "lastUpdated": "2026-06-26T06:35:12.624Z",
+    "uploadSources": {
+      "/airo-assets/uploads/products-sjb-catalogue-main-4e0c1658.jpg": "xqu6cqkp9s_1781851701772_file_9bMO6hZGQo.jpeg"
+    },
+    "uploadContentHash": "e29df411af7c5b888d3c07d786985d684bf4009cc3d1dfe3e15e87af9c036496"
+  },
+  "products/sjb-catalogue-alt": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/products-sjb-catalogue-alt-cd2b8366.jpg",
+    "searchQuery": "",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-06-26T06:35:16.813Z",
+    "lastUpdated": "2026-06-26T06:35:16.813Z",
+    "uploadSources": {
+      "/airo-assets/uploads/products-sjb-catalogue-alt-cd2b8366.jpg": "xqu6cqkp9s_1781851701770_file_eBSUPLJ-Cn.jpeg"
+    },
+    "uploadContentHash": "88da64ec8480910ac50f75960d391bcdd028f7065240930951e6d1e114037916"
+  },
+  "products/sjb-img-1": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/products-sjb-img-1-558d8018.jpg",
+    "searchQuery": "",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-06-26T06:45:56.342Z",
+    "lastUpdated": "2026-06-26T06:45:56.342Z",
+    "uploadSources": {
+      "/airo-assets/uploads/products-sjb-img-1-558d8018.jpg": "xqu6cqkp9s_1781851700314_file_vyfHIGuLhc.jpeg"
+    },
+    "uploadContentHash": "4e50556640d443042f29a6e7859dcb0ee7bea0ec2b7e7733b500c878cefcf872"
+  },
+  "products/sjb-img-2": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/products-sjb-img-2-20d15500.jpg",
+    "searchQuery": "",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-06-26T06:45:57.003Z",
+    "lastUpdated": "2026-06-26T06:45:57.003Z",
+    "uploadSources": {
+      "/airo-assets/uploads/products-sjb-img-2-20d15500.jpg": "xqu6cqkp9s_1781851700316_file_VA-k_RCFw9.jpeg"
+    },
+    "uploadContentHash": "afab66b427571ccecfb3bbf044e4dccee95e9b35a93b2030518b568cb8d1379d"
+  },
+  "products/sjb-img-3": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/products-sjb-img-3-232a18a7.jpg",
+    "searchQuery": "",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-06-26T06:45:58.124Z",
+    "lastUpdated": "2026-06-26T06:45:58.124Z",
+    "uploadSources": {
+      "/airo-assets/uploads/products-sjb-img-3-232a18a7.jpg": "xqu6cqkp9s_1781851700317_file_wcmQVjypNe.jpeg"
+    },
+    "uploadContentHash": "ec438dabc7d3ab0843f88caa4023c25deb775274f85576fe1cdf21ec8aa5c775"
+  },
+  "products/sjb-img-4": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/products-sjb-img-4-60b61b07.jpg",
+    "searchQuery": "",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-06-26T06:45:58.403Z",
+    "lastUpdated": "2026-06-26T06:45:58.403Z",
+    "uploadSources": {
+      "/airo-assets/uploads/products-sjb-img-4-60b61b07.jpg": "xqu6cqkp9s_1781851700316_file_N9DlIYSJZp.jpeg"
+    },
+    "uploadContentHash": "5e4cd09d57427651346e78a213a77a0f65abb45a174b96d9567148dfe29f3197"
+  },
+  "products/sjb-img-5": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/products-sjb-img-5-6787772c.jpg",
+    "searchQuery": "",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-06-26T06:45:59.263Z",
+    "lastUpdated": "2026-06-26T06:45:59.263Z",
+    "uploadSources": {
+      "/airo-assets/uploads/products-sjb-img-5-6787772c.jpg": "xqu6cqkp9s_1781851701764_file_YVaS1O56Na.jpeg"
+    },
+    "uploadContentHash": "ae8d1cb9a1a6f9cb1fbcfb372888bd2eba62e51fb77adc5f45c315367343e76c"
+  },
+  "products/sjb-img-6": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/products-sjb-img-6-3181ddab.jpg",
+    "searchQuery": "",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-06-26T06:45:59.955Z",
+    "lastUpdated": "2026-06-26T06:45:59.955Z",
+    "uploadSources": {
+      "/airo-assets/uploads/products-sjb-img-6-3181ddab.jpg": "xqu6cqkp9s_1781851700318_file_mB6_HjZXIU.jpeg"
+    },
+    "uploadContentHash": "9dbe31cffb800f3373659ba2b453bdabfac45ebe66e631bc26a761cd7dc5a54e"
+  },
+  "products/sjb-img-7": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/products-sjb-img-7-d6791ff5.jpg",
+    "searchQuery": "",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-06-26T06:46:00.658Z",
+    "lastUpdated": "2026-06-26T06:46:00.658Z",
+    "uploadSources": {
+      "/airo-assets/uploads/products-sjb-img-7-d6791ff5.jpg": "xqu6cqkp9s_1781851701769_file_QKpZCSQqBO.jpeg"
+    },
+    "uploadContentHash": "4fea93b1024ff90f716a70e0539651a1a54ee0aeeecd41502fe4c84b919bf026"
+  },
+  "products/sjb-img-8": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/products-sjb-img-8-4592d3d2.jpg",
+    "searchQuery": "",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-06-26T06:46:01.555Z",
+    "lastUpdated": "2026-06-26T06:46:01.555Z",
+    "uploadSources": {
+      "/airo-assets/uploads/products-sjb-img-8-4592d3d2.jpg": "xqu6cqkp9s_1781851701767_file_1uKFWPdbkV.jpeg"
+    },
+    "uploadContentHash": "9a3c6d4436cf1f38ce4b2c8a886b5aef9a4d339d5ea56acfafb0253c2ad6e466"
+  },
+  "products/sjb-crca": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/products-sjb-crca-558d8018.jpg",
+    "searchQuery": "",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-06-26T06:58:18.709Z",
+    "lastUpdated": "2026-06-26T06:58:18.709Z",
+    "uploadSources": {
+      "/airo-assets/uploads/products-sjb-crca-558d8018.jpg": "xqu6cqkp9s_1781851700314_file_vyfHIGuLhc.jpeg"
+    },
+    "uploadContentHash": "4e50556640d443042f29a6e7859dcb0ee7bea0ec2b7e7733b500c878cefcf872"
+  },
+  "products/sjb-ss": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/products-sjb-ss-20d15500.jpg",
+    "searchQuery": "",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-06-26T06:58:19.283Z",
+    "lastUpdated": "2026-06-26T06:58:19.283Z",
+    "uploadSources": {
+      "/airo-assets/uploads/products-sjb-ss-20d15500.jpg": "xqu6cqkp9s_1781851700316_file_VA-k_RCFw9.jpeg"
+    },
+    "uploadContentHash": "afab66b427571ccecfb3bbf044e4dccee95e9b35a93b2030518b568cb8d1379d"
+  },
+  "products/sjb-frp": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/products-sjb-frp-232a18a7.jpg",
+    "searchQuery": "",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-06-26T06:58:20.054Z",
+    "lastUpdated": "2026-06-26T06:58:20.054Z",
+    "uploadSources": {
+      "/airo-assets/uploads/products-sjb-frp-232a18a7.jpg": "xqu6cqkp9s_1781851700317_file_wcmQVjypNe.jpeg"
+    },
+    "uploadContentHash": "ec438dabc7d3ab0843f88caa4023c25deb775274f85576fe1cdf21ec8aa5c775"
+  },
+  "products/sjb-grp": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/products-sjb-grp-60b61b07.jpg",
+    "searchQuery": "",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-06-26T06:58:20.575Z",
+    "lastUpdated": "2026-06-26T06:58:20.575Z",
+    "uploadSources": {
+      "/airo-assets/uploads/products-sjb-grp-60b61b07.jpg": "xqu6cqkp9s_1781851700316_file_N9DlIYSJZp.jpeg"
+    },
+    "uploadContentHash": "5e4cd09d57427651346e78a213a77a0f65abb45a174b96d9567148dfe29f3197"
+  },
+  "products/sjb-pc": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/products-sjb-pc-6787772c.jpg",
+    "searchQuery": "",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-06-26T06:58:21.195Z",
+    "lastUpdated": "2026-06-26T06:58:21.195Z",
+    "uploadSources": {
+      "/airo-assets/uploads/products-sjb-pc-6787772c.jpg": "xqu6cqkp9s_1781851701764_file_YVaS1O56Na.jpeg"
+    },
+    "uploadContentHash": "ae8d1cb9a1a6f9cb1fbcfb372888bd2eba62e51fb77adc5f45c315367343e76c"
+  },
+  "products/sjb-crca-photo": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/products-sjb-crca-photo-c5d870d3.jpg",
+    "searchQuery": "",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-06-26T09:19:15.679Z",
+    "lastUpdated": "2026-06-26T09:19:15.679Z",
+    "uploadSources": {
+      "/airo-assets/uploads/products-sjb-crca-photo-c5d870d3.jpg": "xqu6cqkp9s_1782465538929_file_IO2-eF5Mtf.jpeg"
+    },
+    "uploadContentHash": "fefb7e33da99c0c268a9571ddb81b06575c109c5d022ac5f16789aa34eac1f85"
+  },
+  "products/sjb-crca-drawing": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/products-sjb-crca-drawing-bd48bdd3.jpg",
+    "searchQuery": "",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-06-26T09:19:16.889Z",
+    "lastUpdated": "2026-06-26T09:19:16.889Z",
+    "uploadSources": {
+      "/airo-assets/uploads/products-sjb-crca-drawing-bd48bdd3.jpg": "xqu6cqkp9s_1782465538930_file_OGU4_P8Kw4.jpeg"
+    },
+    "uploadContentHash": "43bb8d03317c1a15368805bb0f75ecf00af171d6dae7a8034767c35d3c3819f0"
+  },
+  "products/sjb-ss-photo": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/products-sjb-ss-photo-74d4d1e5.jpg",
+    "searchQuery": "",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-06-26T09:19:18.158Z",
+    "lastUpdated": "2026-06-26T09:19:18.158Z",
+    "uploadSources": {
+      "/airo-assets/uploads/products-sjb-ss-photo-74d4d1e5.jpg": "xqu6cqkp9s_1782465538931_file_6fYeYwF5F_.jpeg"
+    },
+    "uploadContentHash": "b8de6c82d12a81dc338b687f63631fb101504f34022fac212d62cab9148cc303"
+  },
+  "products/sjb-ss-drawing": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/products-sjb-ss-drawing-572aede1.jpg",
+    "searchQuery": "",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-06-26T09:19:19.209Z",
+    "lastUpdated": "2026-06-26T09:19:19.209Z",
+    "uploadSources": {
+      "/airo-assets/uploads/products-sjb-ss-drawing-572aede1.jpg": "xqu6cqkp9s_1782465538932_file_hq2vu91YWV.jpeg"
+    },
+    "uploadContentHash": "19177de2b58d023e27c785730ddb7b795b3037357c958f9e1c22ea39043a7e7f"
+  },
+  "products/sjb-frp-photo": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/products-sjb-frp-photo-706b6a9c.jpg",
+    "searchQuery": "",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-06-26T09:19:20.277Z",
+    "lastUpdated": "2026-06-26T09:19:20.277Z",
+    "uploadSources": {
+      "/airo-assets/uploads/products-sjb-frp-photo-706b6a9c.jpg": "xqu6cqkp9s_1782465538932_file_IL8xaqqNQV.jpeg"
+    },
+    "uploadContentHash": "adadb1ba336932aa56cb17e758ab629e5f309a1700fc9af953ff142e0dcb2251"
+  },
+  "products/sjb-frp-drawing": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/products-sjb-frp-drawing-12ec7ea1.jpg",
+    "searchQuery": "",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-06-26T09:19:21.490Z",
+    "lastUpdated": "2026-06-26T09:19:21.490Z",
+    "uploadSources": {
+      "/airo-assets/uploads/products-sjb-frp-drawing-12ec7ea1.jpg": "xqu6cqkp9s_1782465539346_file_mHc18u4E54.jpeg"
+    },
+    "uploadContentHash": "94efa22d226dc0991bfb4efd01235f805cc5b7e96493a3ff672c5385702505fb"
+  },
+  "products/sjb-adc-photo": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/products-sjb-adc-photo-a233265c.jpg",
+    "searchQuery": "",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-06-26T09:19:22.837Z",
+    "lastUpdated": "2026-06-26T09:19:22.837Z",
+    "uploadSources": {
+      "/airo-assets/uploads/products-sjb-adc-photo-a233265c.jpg": "xqu6cqkp9s_1782465539348_file_XYElKCOmPv.jpeg"
+    },
+    "uploadContentHash": "2a8cb4a9206a62292fa37d3f7751d5fb7a70b89433a0a19f88303a5f1547b7c3"
+  }
+}
